@@ -1,0 +1,40 @@
+.button button{
+    text-align: center;
+	color: rgb(0, 0, 0);
+	padding: 10px 20px;
+	margin: 10px;
+	border: 0;
+	background: rgb(83, 212, 212);
+}
+#ploca {
+    border: 1px solid #ccc;
+}
+#ploca td {
+    width:66px;
+    height:66px;
+    padding:5px;
+    text-align: center;
+}
+
+
+.tekst {
+
+    text-align: center;
+}
+
+.okvir{
+	width: 325px;
+	height: 325px;
+	margin: 0 auto;
+	margin-top: 200px;
+	border: 2px solid rgb(17, 2, 158);
+}
+
+#ploca td.num {
+    background-color: rgb(177, 61, 61);
+    border:1px solid #000;
+    color: #fff; 
+}
+.button {
+    text-align: center;
+}
