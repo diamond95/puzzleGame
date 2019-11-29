@@ -48,4 +48,8 @@ $pozadina = $config->getPuzzleImages();
     <br /><br />
     <hr>
     <div class="tekst">Use  &larr; &uarr; &rarr; &darr; on your keyboard</div>
+
+    <br />
+    <br />
+    <div class="tekst"><a  href="https://github.com/diamond95/puzzleGame" target="_blank"><b>Source code</b></a></div>
 </body>

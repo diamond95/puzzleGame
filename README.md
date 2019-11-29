@@ -11,4 +11,4 @@ Use arrows on your keyboard
 
 # Live
 
-[Puzzle game](https://developer-hr.com/puzzle/index.php)
+[Puzzle game](https://developer-hr.com/puzzleGame/index.php)
