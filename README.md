@@ -1,6 +1,8 @@
 ## Puzzle game
 
-Created with JS 
+![Screenshot](https://raw.githubusercontent.com/diamond95/puzzleGame/master/screenshot.png)
+
+Created with Javascript
 
 # How to play
 
